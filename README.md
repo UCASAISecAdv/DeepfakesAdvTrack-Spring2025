@@ -34,12 +34,13 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 ### Week 8
 |Team | AUC | Time |
 |:-----:|:----:|:------:|
-|Baseline| - | - |
+|Baseline|0.674127091|0.024314617|
 
 
 ## Deepfake Generation
 ### Week 8
 |Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
 |:-----:|:----:|:------:|:----:|:------:|:----:|
-|Baseline| - | - | - | - | - | - |
-
+|AISC_is_my_goal|0.9559|-0.1025|0.6237|0.7184|2.1955|
+|Gee_Knee_Thai_May|0.9352|-0.0863|0.7350|0.6043|2.1881|
+|baseline|0.9495|-0.0000|0.5921|0.0250|1.5666|
