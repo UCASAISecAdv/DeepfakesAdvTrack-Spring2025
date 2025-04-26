@@ -40,11 +40,11 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 ### Week 9
 |Team | AUC | Time |
 |:-----:|:----:|:------:|
-|蒙的都队|0.939489174|0.025875936|
-|MoyuSquad|0.81482896|0.034460585|
-|TEAM_Gee_Knee_Thai_May|0.784247825|0.154645648|
-|Baseline|0.674127091|0.024314617|
-|space1|0.641271485|0.011240853|
+|蒙的都队|0.9394|0.0258|
+|MoyuSquad|0.8148|0.0344|
+|TEAM_Gee_Knee_Thai_May|0.7842|0.1546|
+|Baseline|0.6741|0.0243|
+|space1|0.6412|0.0112|
 
 
 ## Deepfake Generation
