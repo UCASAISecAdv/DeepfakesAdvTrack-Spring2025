@@ -41,8 +41,8 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |Team | AUC | Time |
 |:-----:|:----:|:------:|
 |蒙的都队|0.939489174|0.025875936|
-|TEAM_Gee_Knee_Thai_May|0.784247825|0.154645648|
 |MoyuSquad|0.81482896|0.034460585|
+|TEAM_Gee_Knee_Thai_May|0.784247825|0.154645648|
 |Baseline|0.674127091|0.024314617|
 |space1|0.641271485|0.011240853|
 
