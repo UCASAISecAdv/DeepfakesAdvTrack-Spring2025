@@ -19,7 +19,7 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 *If you feel it a good repo, star it!*
 
 # 📣 News
-- **[2025-04-26]** New! DeepfakesAdvTrack Leaderboard (Week 8 ~ 9) has been updated!
+- **[2025-04-27]** New! DeepfakesAdvTrack Leaderboard (Week 8 ~ 9) has been updated!
 - **[2025-04-10]** New! DeepfakesAdvTrack val and test data has been released!
 - **[2025-04-04]** New! DeepfakesAdvTrack has been released! Let's try it! 
 
@@ -32,31 +32,19 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 # 🥇 LeaderBoard
 ## Deepfake Detection
 
-### Week 8
-|Team | AUC | Time |
-|:-----:|:----:|:------:|
-|Baseline|0.674127091|0.024314617|
-
-### Week 9
-|Team | AUC | Time |
-|:-----:|:----:|:------:|
-|蒙的都队|0.9394|0.0258|
-|MoyuSquad|0.8148|0.0344|
-|TEAM_Gee_Knee_Thai_May|0.7842|0.1546|
-|Baseline|0.6741|0.0243|
-|space1|0.6412|0.0112|
+|Team | Week | AUC | Time |
+|:-----:|:----:|:----:|:------:|
+|蒙的都队| Week 9 |0.9394|0.0258|
+|MoyuSquad| Week 9|0.8148|0.0344|
+|TEAM_Gee_Knee_Thai_May| Week 9|0.7842|0.1546|
+|Baseline| - |0.6741|0.0243|
+|space1| Week 9|0.6412|0.0112|
 
 
 ## Deepfake Generation
-### Week 8
-|Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
-|:-----:|:----:|:------:|:----:|:------:|:----:|
-|AISC_is_my_goal|0.9559|-0.1025|0.6237|0.7184|2.1955|
-|Gee_Knee_Thai_May|0.9352|-0.0863|0.7350|0.6043|2.1881|
-|baseline|0.9495|-0.0000|0.5921|0.0250|1.5666|
-
-### Week 9
-|Team | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
-|:-----:|:----:|:------:|:----:|:------:|:----:|
-|baseline|0.9495|-0.0000|0.5921|0.0250|1.5666|
-|MoyuSquad|0.9444|-0.2207|0.4777|0.1604|1.3618|
+|Team | Week | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
+|:-----:|:----:|:----:|:------:|:----:|:------:|:----:|
+|AISC_is_my_goa| Week 8 |0.9559|-0.1025|0.6237|0.7184|2.1955|
+|Gee_Knee_Thai_May| Week 8|0.9352|-0.0863|0.7350|0.6043|2.1881|
+|baseline| - |0.9495|-0.0000|0.5921|0.0250|1.5666|
+|MoyuSquad| Week 9 |0.9444|-0.2207|0.4777|0.1604|1.3618|
