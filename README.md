@@ -19,6 +19,7 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 *If you feel it a good repo, star it!*
 
 # 📣 News
+- **[2025-05-06]** New! DeepfakesAdvTrack Leaderboard (Week 10) has been updated!
 - **[2025-04-27]** New! DeepfakesAdvTrack Leaderboard (Week 8 ~ 9) has been updated!
 - **[2025-04-10]** New! DeepfakesAdvTrack val and test data has been released!
 - **[2025-04-04]** New! DeepfakesAdvTrack has been released! Let's try it! 
