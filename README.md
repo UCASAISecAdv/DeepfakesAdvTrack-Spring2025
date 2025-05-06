@@ -35,6 +35,9 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |Team | Week | AUC | Time |
 |:-----:|:----:|:----:|:------:|
 |蒙的都队| Week 9 |0.9394|0.0258|
+|Momo| Week 10 |0.8899|0.0058|
+|aiscismygo| Week 10 |0.8523|0.0398|
+|MoyuSquad| Week 10 |0.8490|0.0480|
 |MoyuSquad| Week 9|0.8148|0.0344|
 |TEAM_Gee_Knee_Thai_May| Week 9|0.7842|0.1546|
 |Baseline| - |0.6741|0.0243|
@@ -46,5 +49,11 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |:-----:|:----:|:----:|:------:|:----:|:------:|:----:|
 |AISC_is_my_goa| Week 8 |0.9559|-0.1025|0.6237|0.7184|2.1955|
 |Gee_Knee_Thai_May| Week 8|0.9352|-0.0863|0.7350|0.6043|2.1881|
+|deepcopy|Week 10|0.9277|-0.0994|0.7231|0.5553|2.1067|
 |baseline| - |0.9495|-0.0000|0.5921|0.0250|1.5666|
+|deepcopy|Week 9|0.8945|-0.9010|0.5559|0.9846|1.5340|
+|MoyuSquad| Week 10 |0.8945|-0.9010|0.5559|0.9845|1.5339|
 |MoyuSquad| Week 9 |0.9444|-0.2207|0.4777|0.1604|1.3618|
+
+
+
