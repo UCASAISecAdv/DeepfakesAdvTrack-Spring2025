@@ -52,7 +52,6 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |Gee_Knee_Thai_May| Week 8|0.9352|-0.0863|0.7350|0.6043|2.1881|
 |deepcopy|Week 10|0.9277|-0.0994|0.7231|0.5553|2.1067|
 |baseline| - |0.9495|-0.0000|0.5921|0.0250|1.5666|
-|deepcopy|Week 9|0.8945|-0.9010|0.5559|0.9846|1.5340|
 |MoyuSquad| Week 10 |0.8945|-0.9010|0.5559|0.9845|1.5339|
 |MoyuSquad| Week 9 |0.9444|-0.2207|0.4777|0.1604|1.3618|
 
