@@ -57,7 +57,6 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |Donot_Push_Us|Week 11|0.5152|0.0026|
 |满分队|Week 11|0.3468|0.0700|
 
-AI_2025_Team	0.7582	0.0186
 
 ## Deepfake Generation
 |Team | Week | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
