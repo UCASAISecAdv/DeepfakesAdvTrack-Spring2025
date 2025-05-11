@@ -48,6 +48,7 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |MoyuSquad| Week 9|0.8148|0.0344|
 |DeeperFake|Week 11|0.8066|0.0176|
 |TEAM_Gee_Knee_Thai_May| Week 9|0.7842|0.1546|
+|AI_2025_Team|Week 11|0.7582|0.0186|
 |space1|Week 11|0.7344|0.0113|
 |Baseline| - |0.6741|0.0243|
 |space1| Week 9|0.6412|0.0112|
@@ -56,7 +57,7 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |Donot_Push_Us|Week 11|0.5152|0.0026|
 |满分队|Week 11|0.3468|0.0700|
 
-
+AI_2025_Team	0.7582	0.0186
 
 ## Deepfake Generation
 |Team | Week | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
@@ -66,6 +67,7 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |vs_code|Week 11|0.9513|-0.1020|0.6233|0.7243|2.1969|
 |AISC is my goal| Week 8 |0.9559|-0.1025|0.6237|0.7184|2.1955|
 |Gee_Knee_Thai_May| Week 8|0.9352|-0.0863|0.7350|0.6043|2.1881|
+|Donot_Push_US|Week 11 | 0.9349|-0.0867|0.7300|0.5962|2.1744|
 |在P了|Week 11|0.9262|-0.0997|0.7249|0.6152|2.1667|
 |deepcopy|Week 10|0.9277|-0.0994|0.7231|0.5553|2.1067|
 |deepcopy|Week 11 | 0.8955|-0.3889|0.7103|0.5620|1.7790|
