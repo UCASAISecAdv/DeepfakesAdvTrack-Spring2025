@@ -62,7 +62,8 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |Team | Week | SSIM | Noise | ID_score | AntiDet_score | Overall_score |
 |:-----:|:----:|:----:|:------:|:----:|:------:|:----:|
 |满分队|Week 11|0.9577|-0.0755|0.6441|0.7031|2.2293|
-|fin|Week 11|0.9513|-0.1020|0.6233|0.7243|2.1969|
+|DeeperFake|Week 11|0.9579|-0.0754|0.6532|0.6727|2.2083|
+|vs_code|Week 11|0.9513|-0.1020|0.6233|0.7243|2.1969|
 |AISC is my goal| Week 8 |0.9559|-0.1025|0.6237|0.7184|2.1955|
 |Gee_Knee_Thai_May| Week 8|0.9352|-0.0863|0.7350|0.6043|2.1881|
 |在P了|Week 11|0.9262|-0.0997|0.7249|0.6152|2.1667|
