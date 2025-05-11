@@ -37,8 +37,8 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |Team | Week | AUC | Time |
 |:-----:|:----:|:----:|:------:|
 |蒙的都队| Week 9 |0.9394|0.0258|
-|蒙的都队|Week 11|0.9370|0.0087|
 |Momo|Week 11|0.9370|0.0058|
+|蒙的都队|Week 11|0.9370|0.0087|
 |MoyuSquad|Week 11|0.9312|0.0515|
 |Momo| Week 10 |0.8899|0.0058|
 |安全对抗小组|Week 11|0.8729|0.0167|
