@@ -19,6 +19,7 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 *If you feel it a good repo, star it!*
 
 # 📣 News
+- **[2025-05-15]** New! DeepfakesAdvTrack Leaderboard (Test-2 results) has been updated!
 - **[2025-05-11]** New! DeepfakesAdvTrack Leaderboard (Week 11) has been updated!
 - **[2025-05-06]** New! DeepfakesAdvTrack Leaderboard (Week 10) has been updated!
 - **[2025-04-27]** New! DeepfakesAdvTrack Leaderboard (Week 8 ~ 9) has been updated!
@@ -33,7 +34,7 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 
 # 🥇 LeaderBoard
 ## Deepfake Detection
-
+### Test1 Results
 |Team | Week | AUC | Time |
 |:-----:|:----:|:----:|:------:|
 |蒙的都队| Week 9 |0.9394|0.0258|
@@ -56,6 +57,26 @@ Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation 
 |在P了|Week 11|0.5470|0.1868|
 |Donot_Push_Us|Week 11|0.5152|0.0026|
 |满分队|Week 11|0.3468|0.0700|
+
+### Test2 Results
+|Team | AUC | Time |
+|:-----:|:----:|:----:|
+|Momo|0.9731 |0.0028 |
+|蒙的都队|0.9526 |0.0088 |
+|AI_2025_Team|0.9382 |0.1092 |
+|MoyuSquad|0.9262 |0.0365 |
+|Donot_Push_Us|0.9024 |0.0009 |
+|安全对抗小组|0.8987 |0.0259 |
+|DeeperFake|0.8679 |0.0159 |
+|AISC is my goal|0.8624 |0.0238 |
+|space1|0.8225 |0.0113 |
+|Gee_Knee_Thai_May|0.7906 |0.0326 |
+|在P了|0.7493 |0.0291 |
+|满分队|0.7366 |0.0301 |
+|AAA深度伪造对抗|0.6260 |0.1100 |
+
+
+
 
 
 ## Deepfake Generation
